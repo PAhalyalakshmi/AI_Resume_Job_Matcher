@@ -1,0 +1,37 @@
+
+JOB TITLE: MIS Executive / Junior Data Analyst
+
+JOB DESCRIPTION:
+
+We are looking for a motivated MIS Executive who can support
+business reporting and data management activities.
+
+RESPONSIBILITIES:
+
+1. Prepare daily, weekly, and monthly MIS reports.
+2. Maintain Excel spreadsheets and business databases.
+3. Perform data cleaning and data validation.
+4. Create dashboards and visual reports.
+5. Analyze business data and identify trends.
+6. Support management decision-making.
+7. Maintain accurate and updated records.
+8. Automate repetitive reporting tasks.
+9. Work with cross-functional teams.
+
+REQUIRED SKILLS:
+
+Microsoft Excel
+Advanced Excel
+SQL
+Python
+Pandas
+Power BI
+Data Analytics
+Data Cleaning
+Data Validation
+Data Visualization
+Reporting
+Dashboard
+Communication
+Attention to Detail
+Analytical Thinking
